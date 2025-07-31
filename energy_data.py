@@ -15,7 +15,7 @@ import seaborn as sns  # Statistical data visualization
 
 # Step 1: Load dataset
 # Load dataset
-df = pd.read_csv("/Users/Varshini/Downloads/energy_data.csv")
+df = pd.read_csv("energy_data.csv")
 
 st.title("Energy Dashboard for Housing Complex")
 
